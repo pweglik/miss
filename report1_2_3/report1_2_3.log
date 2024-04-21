@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.19)  21 APR 2024 23:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.19)  21 APR 2024 23:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -271,20 +271,62 @@ Package pdftex.def Info: ./imgs/agh_logo.jpg  used on input line 52.
 (pdftex.def)             Requested size: 182.09485pt x 102.42961pt.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imgs/agh_logo.jpg>] [1] (/home/przemek/studia/sem8/miss/report1_2_3/report1_2_3.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./imgs/agh_logo.jpg>]
+<./imgs/bug.png, id=10, 878.28125pt x 404.51125pt>
+File: ./imgs/bug.png Graphic file (type png)
+<use ./imgs/bug.png>
+Package pdftex.def Info: ./imgs/bug.png  used on input line 74.
+(pdftex.def)             Requested size: 455.24408pt x 209.67427pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 74--75
+[][] 
+ []
+
+<./imgs/bug_solved.png, id=12, 654.445pt x 407.5225pt>
+File: ./imgs/bug_solved.png Graphic file (type png)
+<use ./imgs/bug_solved.png>
+Package pdftex.def Info: ./imgs/bug_solved.png  used on input line 78.
+(pdftex.def)             Requested size: 455.24408pt x 283.47916pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 78--79
+[][] 
+ []
+
+[1 <./imgs/bug.png> <./imgs/bug_solved.png>]
+<./imgs/map1.png, id=20, 644.4075pt x 559.08875pt>
+File: ./imgs/map1.png Graphic file (type png)
+<use ./imgs/map1.png>
+Package pdftex.def Info: ./imgs/map1.png  used on input line 87.
+(pdftex.def)             Requested size: 455.24408pt x 394.98512pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 87--88
+[][] 
+ []
+
+<./imgs/map2.png, id=21, 763.85374pt x 824.07875pt>
+File: ./imgs/map2.png Graphic file (type png)
+<use ./imgs/map2.png>
+Package pdftex.def Info: ./imgs/map2.png  used on input line 89.
+(pdftex.def)             Requested size: 455.24408pt x 491.13142pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 89--90
+[][] 
+ []
+
+[2 <./imgs/map1.png>] [3 <./imgs/map2.png>] (/home/przemek/studia/sem8/miss/report1_2_3/report1_2_3.aux) ) 
 Here is how much of TeX's memory you used:
- 5014 strings out of 481239
- 69867 string characters out of 5920377
- 327459 words of memory out of 5000000
- 20227 multiletter control sequences out of 15000+600000
- 536190 words of font info for 29 fonts, out of 8000000 for 9000
+ 5043 strings out of 481239
+ 70352 string characters out of 5920377
+ 328459 words of memory out of 5000000
+ 20249 multiletter control sequences out of 15000+600000
+ 537730 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,4n,36p,252b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on /home/przemek/studia/sem8/miss/report1_2_3/report1_2_3.pdf (2 pages, 65311 bytes).
+ 34i,5n,36p,741b,227s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb>
+Output written on /home/przemek/studia/sem8/miss/report1_2_3/report1_2_3.pdf (4 pages, 786623 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
